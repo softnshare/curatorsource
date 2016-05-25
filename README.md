@@ -21,7 +21,7 @@ Curator 資訊來源與蒐集
 - [Soft & Share 部落格](https://softnshare.wordpress.com/blog/)
 - [交互設計案例分享 Weekly](https://medium.com/%E5%A5%A7%E9%9D%A9%E8%A8%AD%E8%A8%88-startup-studio)
 - [F2ETW Weekly](http://www.f2e.tw/weekly-collection/)
-- [Sidebar 設計日刊](sidebar.io)
+- [Sidebar 設計日刊](http://sidebar.io)
 - [灣區日報](https://wanqu.co)
 - [码农周刊](http://weekly.manong.io/)
 - [FangTalk 技术周刊](http://tinyletter.com/fangtalk)
