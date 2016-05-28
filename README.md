@@ -25,6 +25,7 @@ Curator 資訊來源與蒐集
 - [灣區日報](https://wanqu.co)
 - [码农周刊](http://weekly.manong.io/)
 - [FangTalk 技术周刊](http://tinyletter.com/fangtalk)
+- [DevOpslinks](http://devopslinks.com)
 
 
 ## Podcast
