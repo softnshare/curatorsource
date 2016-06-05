@@ -32,7 +32,7 @@ Curator 資訊來源與蒐集
 
 - [Software Engineering Daily](http://softwareengineeringdaily.com/)
 - [TechTalk](http://www.techtalk.tw/)
-
+- [Teahour.fm](https://itunes.apple.com/cn/podcast/teahour.fm/id608387170)
 
 ## 大大
 
