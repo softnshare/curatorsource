@@ -18,7 +18,7 @@ Curator 資訊來源與蒐集
 - [Star Rocket 創業週報](http://weekly.starrocket.io/)
 - [產品開發週刊](https://pdwtaiwan.ongoodbits.com/)
 - [晨間花農週刊](https://gardenernews.ongoodbits.com/)
-- [Soft & Share 部落格](https://softnshare.wordpress.com/blog/)
+- [百度Hi团队 iOS 技术周报](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)
 - [交互設計案例分享 Weekly](https://medium.com/%E5%A5%A7%E9%9D%A9%E8%A8%AD%E8%A8%88-startup-studio)
 - [F2ETW Weekly](http://www.f2e.tw/weekly-collection/)
 - [Sidebar 設計日刊](http://sidebar.io)
